@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Valen
 
-<!--
-**valerubio7/valerubio7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Estudiante de Ingeniería en Sistemas | Apasionado por el rock y la tecnología
 
-Here are some ideas to get you started:
+🔭 Actualmente trabajando en proyectos de desarrollo web y machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Herramientas
+
+### 🖥️ Lenguajes de Programación  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
+
+### 🗃️ Bases de Datos  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" />
+
+### 📊 Librerías de Data y Ciencia  
+<img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" title="Numpy" /> <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" title="Pandas" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib" />
+
+### 🌐 Frontend  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS" />
+
+### 🛠️ Herramientas de Desarrollo  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub" />
+
+### 🐳 Infraestructura y Sistemas Operativos  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />
+
+---
+
+📫 Contacto: [LinkedIn](www.linkedin.com/in/rubiovalentin) | [Email](rubiovalentin01@gmail.com)
+
+¡Gracias por pasar por mi perfil! 😊
