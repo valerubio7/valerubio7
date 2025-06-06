@@ -7,15 +7,16 @@
 ## Tecnologías y Herramientas
 
 ### 🖥️ Lenguajes de Programación  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" /> <img src="https://cdn.simpleicons.org/gnu/bash" width="40" height="40" title="Bash" /> <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" title="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++" />
 
 ### 🛠️ Frameworks  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" title="Flask" />
 
 ### 🗃️ Bases de Datos  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" /> <img src="https://cdn.simpleicons.org/sql/4479A1" width="40" height="40" title="SQL" /> <img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40" title="SQLite" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.svg" width="40" height="40" title="SQL" />  
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width="40" height="40" title="SQLite" />
 
-### 📊 Librerías de Data y Ciencia  
+### 📊 Ciencia de datos
 <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" title="Numpy" /> <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" title="Pandas" /> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib" /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40" height="40" title="Jupyter" />
 
 ### 🌐 Frontend  
@@ -36,7 +37,6 @@
 - Cálculo Diferencial e Integral  
 - Gestión de versiones con Git y GitHub  
 - Diseño y consultas con SQL y SQLite  
-- Bash scripting y automatización
 
 ---
 
