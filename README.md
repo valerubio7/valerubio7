@@ -29,6 +29,15 @@ I specialize in building robust, maintainable, and well-tested systems, prioriti
 - Asynchronous programming
 - Authentication & authorization (JWT, OAuth)
 
+### Data Science & Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- Data analysis and preprocessing
+- Exploratory data analysis (EDA)
+- Classical machine learning models
+
 ### Testing & Code Quality
 - Test-Driven Development (TDD)
 - Pytest, unittest
@@ -48,6 +57,16 @@ I specialize in building robust, maintainable, and well-tested systems, prioriti
 - Linux environment
 - Confident with terminal and command-line tools
 
+---
+
+## 🧮 Mathematical Foundations
+
+- Advanced calculus (diffential and integral)
+- Linear algebra
+- Logic
+- Probability
+- Statistics
+- Economic
 ---
 
 ## 🚀 Featured Projects
@@ -93,7 +112,6 @@ Status: **Active, documented, and deployed**
 **Systems Engineering**  
 Universidad Tecnológica Nacional (UTN)  
 Currently studying
-
 
 ---
 
