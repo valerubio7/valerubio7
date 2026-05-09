@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/rubiovalentin">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/rubiovalentin/?locale=en">LinkedIn</a> ·
   <a href="https://valerubio7.github.io/portfolio/">Portfolio</a> ·
-  <a href="rubiovalentin.work@gmail.com">Contact</a>
+  <a href="">rubiovalentin.work@gmail.com</a>
 </p>
 
 ---
@@ -20,9 +20,9 @@
 
 I am an advanced Systems Engineering student at Universidad Tecnológica Nacional (UTN), focused on building production-oriented machine learning systems, backend APIs, data pipelines, and cloud-native infrastructure.
 
-My main professional goal is to grow as an **MLOps Engineer**, while also fitting naturally into roles such as **ML Engineer**, **DevOps Engineer**, and **Backend Engineer**. I enjoy working at the intersection of software engineering, machine learning, automation, monitoring, and scalable backend systems.
+My main professional goal is to grow as an **MLOps Engineer**, while also fitting naturally into roles such as **ML Engineer**, **DevOps**, and **Backend Engineer**. I enjoy working at the intersection of software engineering, machine learning, automation, monitoring, and scalable backend systems.
 
-I focus on designing clean, maintainable, and testable systems using Python, FastAPI, Django, PostgreSQL, Docker, AWS, MLflow, Prefect, Prometheus, Grafana, Kafka, Airflow, and modern CI/CD practices.
+I focus on designing clean, maintainable, and testable systems using Python, FastAPI, Django, PostgreSQL, Docker, AWS, MLflow, Prefect, Prometheus, Grafana, Kafka, Airflow, and Clean Code practices.
 
 ---
 
@@ -55,7 +55,6 @@ I focus on designing clean, maintainable, and testable systems using Python, Fas
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
 </p>
 
 ### Databases & Storage
@@ -92,7 +91,6 @@ I focus on designing clean, maintainable, and testable systems using Python, Fas
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" />
   <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
@@ -112,7 +110,6 @@ I focus on designing clean, maintainable, and testable systems using Python, Fas
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Unit_Testing-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Integration_Testing-555555?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Testable_Code-555555?style=for-the-badge" />
 </p>
 
 ### Tools
@@ -139,7 +136,7 @@ I focus on designing clean, maintainable, and testable systems using Python, Fas
 - Type hints and explicit contracts
 - Automated testing
 - Container-first development
-- Observability by design
+- Observability
 
 ---
 
@@ -153,7 +150,6 @@ I focus on designing clean, maintainable, and testable systems using Python, Fas
 - Databases
 - Algorithms and data structures
 - Operating systems
-- Distributed systems fundamentals
 
 ---
 
@@ -177,7 +173,7 @@ A machine learning platform focused on industrial predictive maintenance, combin
 - CI/CD and AWS ECS deployment
 - Automated testing with pytest
 
-**Repository:** [Add link here](PROJECT_URL)
+**Repository:** https://github.com/valerubio7/predmaint-ml-platform
 
 ---
 
@@ -197,9 +193,8 @@ A university academic management system with role-based access control, enrollme
 - PostgreSQL database
 - Automated tests with pytest
 - Dockerized deployment
-- Production-oriented project structure
 
-**Repository:** [Add link here](PROJECT_URL)
+**Repository:** https://github.com/valerubio7/academic-management-system
 
 ---
 
@@ -223,261 +218,6 @@ A fraud detection platform designed around streaming data, machine learning pipe
 - Observability with Prometheus and Grafana
 - Multi-service Docker environment
 
-**Repository:** [Add link here](PROJECT_URL)
+**Repository:** https://github.com/valerubio7/fraud-detection-system
 
 ---
-
-## Professional Roles
-
-I am mainly oriented toward:
-
-- MLOps Engineer
-- ML Engineer
-- Backend Engineer
-- DevOps Engineer
-- Python Developer
-- Cloud-native Backend Developer
-
----
-
-## Contact
-
-- LinkedIn: [Add link here](LINKEDIN_URL)
-- Portfolio: [Add link here](PORTFOLIO_URL)
-- Email: [Add email here](EMAIL_URL)
-
----
-
-<h2 align="center">Español</h2>
-
----
-
-## Sobre mí
-
-Soy estudiante avanzado de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN), enfocado en construir sistemas de machine learning orientados a producción, APIs backend, pipelines de datos e infraestructura cloud-native.
-
-Mi objetivo profesional principal es crecer como **MLOps Engineer**, aunque también encajo naturalmente en roles como **ML Engineer**, **DevOps Engineer** y **Backend Engineer**. Me interesa trabajar en la intersección entre ingeniería de software, machine learning, automatización, monitoreo y sistemas backend escalables.
-
-Me enfoco en diseñar sistemas limpios, mantenibles y testeables usando Python, FastAPI, Django, PostgreSQL, Docker, AWS, MLflow, Prefect, Prometheus, Grafana, Kafka, Airflow y prácticas modernas de CI/CD.
-
----
-
-## Enfoque principal
-
-- Plataformas MLOps y sistemas de ML orientados a producción
-- Serving, monitoreo y detección de drift en modelos de ML
-- APIs backend con Python, FastAPI y Django
-- Pipelines de datos y orquestación de workflows
-- Aplicaciones containerizadas y despliegues cloud
-- Observabilidad, métricas y automatización de infraestructura
-- Arquitectura limpia, testing y buenas prácticas de ingeniería de software
-
----
-
-## Stack técnico
-
-### Lenguajes
-
-- Python
-- SQL
-- Bash
-
-### Backend
-
-- FastAPI
-- Django
-- Django REST Framework
-- SQLAlchemy
-- Pydantic
-- REST APIs
-- Arquitectura por capas
-- Service Layer
-- Repository Pattern
-
-### Bases de datos y almacenamiento
-
-- PostgreSQL
-- TimescaleDB
-- Redis
-- SQLite
-
-### MLOps y Machine Learning
-
-- MLflow
-- Prefect
-- Apache Airflow
-- XGBoost
-- scikit-learn
-- Drift detection
-- Model monitoring
-- Model serving
-- Feature engineering
-
-### Data Engineering y Streaming
-
-- Apache Kafka
-- Event-driven architecture
-- Data pipelines
-- Time-series data
-- Real-time processing
-
-### DevOps y Cloud
-
-- Docker
-- Docker Compose
-- AWS
-- AWS ECS
-- AWS ECR
-- Traefik
-- GitHub Actions
-- CI/CD
-- Cloud-native deployments
-
-### Observabilidad
-
-- Prometheus
-- Grafana
-- Monitoring
-- Metrics
-- Health checks
-- Structured logging
-
-### Testing y calidad
-
-- pytest
-- Unit testing
-- Integration testing
-- Testable code
-- Type hints
-- Clean code
-
-### Herramientas
-
-- Git
-- GitHub
-- GitHub Actions
-- Linux
-- Docker CLI
-- Shell scripting
-
----
-
-## Principios de ingeniería
-
-- SOLID
-- DRY
-- KISS
-- YAGNI
-- Clean Architecture
-- Service Layer Pattern
-- Repository Pattern
-- Spec-Driven Development
-- Tipado explícito
-- Testing automatizado
-- Desarrollo container-first
-- Observabilidad por diseño
-
----
-
-## Bases académicas
-
-- Ingeniería en Sistemas
-- Cálculo
-- Álgebra lineal
-- Fundamentos de estadística
-- Arquitectura de software
-- Bases de datos
-- Algoritmos y estructuras de datos
-- Sistemas operativos
-- Fundamentos de sistemas distribuidos
-
----
-
-## Proyectos destacados
-
-### PredMaint ML Platform
-
-**Plataforma MLOps orientada a producción para mantenimiento predictivo.**
-
-Plataforma de machine learning enfocada en mantenimiento predictivo industrial, combinando entrenamiento de modelos, serving mediante API, monitoreo, detección de drift, orquestación y despliegue en cloud.
-
-**Tecnologías principales:** Python, FastAPI, XGBoost, Prefect, MLflow, Docker, AWS ECS, Prometheus, Grafana, pytest.
-
-**Puntos destacados:**
-
-- Serving de modelos ML mediante FastAPI
-- Pipeline de mantenimiento predictivo
-- Detección de drift y monitoreo
-- Observabilidad con Prometheus y Grafana
-- Servicios dockerizados
-- CI/CD y despliegue en AWS ECS
-- Testing automatizado con pytest
-
-**Repositorio:** [Agregar link aquí](PROJECT_URL)
-
----
-
-### Academic Management System
-
-**Plataforma backend/fullstack de gestión académica.**
-
-Sistema de gestión académica universitaria con control de acceso por roles, inscripción a materias, exámenes, actas académicas, lógica de negocio separada mediante service layer, testing y despliegue containerizado.
-
-**Tecnologías principales:** Python, Django, PostgreSQL, Docker, pytest, Railway.
-
-**Puntos destacados:**
-
-- Arquitectura backend con Django
-- Patrón Service Layer
-- Control de acceso basado en roles
-- Base de datos PostgreSQL
-- Tests automatizados con pytest
-- Despliegue con Docker
-- Estructura orientada a producción
-
-**Repositorio:** [Agregar link aquí](PROJECT_URL)
-
----
-
-### Fraud Detection System
-
-**Plataforma MLOps en tiempo real para detección de fraude.**
-
-Plataforma de detección de fraude diseñada alrededor de streaming de datos, pipelines de machine learning, feature engineering, tracking de modelos, detección de drift, observabilidad y arquitectura event-driven.
-
-**Tecnologías principales:** Python, Kafka, TimescaleDB, Redis, XGBoost, MLflow, Evidently, Airflow, Docker, Prometheus, Grafana.
-
-**Puntos destacados:**
-
-- Arquitectura de detección de fraude en tiempo real
-- Pipeline de streaming con Kafka
-- Workflows de feature engineering
-- Tracking de experimentos con MLflow
-- Detección de drift con Evidently
-- TimescaleDB para datos temporales
-- Capa de caché con Redis
-- Observabilidad con Prometheus y Grafana
-- Entorno Docker multiservicio
-
-**Repositorio:** [Agregar link aquí](PROJECT_URL)
-
----
-
-## Roles profesionales
-
-Me oriento principalmente a:
-
-- MLOps Engineer
-- ML Engineer
-- Backend Engineer
-- DevOps Engineer
-- Python Developer
-- Cloud-native Backend Developer
-
----
-
-## Contacto
-
-- LinkedIn: [Agregar link aquí](LINKEDIN_URL)
-- Portfolio: [Agregar link aquí](PORTFOLIO_URL)
-- Email: [Agregar email aquí](EMAIL_URL)
